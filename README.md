@@ -316,6 +316,47 @@ Birla Institute of Technology, Mesra
 
 ---
 
-# Skills Demonstrated
+# Power BI Dashboard
 
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `SQL` `Power BI` `Data Analysis` `Business Intelligence` `Customer Analytics` `Data Visualization` `KPI Analysis` `Customer Segmentation` `Cross-Selling`
+The Power BI dashboard provides an interactive view of customer value, product adoption, lending opportunities, cross-selling potential, and strategic performance.
+
+### 1. Executive Overview
+
+Provides a high-level view of customer base, average income, Customer Lifetime Value (CLV), premium customers, credit card adoption, online banking adoption, and customer segment performance.
+
+![Executive Overview](Dashboard_Screenshots/01_Executive_Overview.png)
+
+---
+
+### 2. Product & Customer Insights
+
+Analyzes banking product adoption, product portfolio by customer segment, and overall customer product engagement.
+
+![Product & Customer Insights](Dashboard_Screenshots/02_Product_Customer_Insights.png)
+
+---
+
+### 3. Lending & Cross-Selling Intelligence
+
+Highlights relationship priority, financial health, high-value customers, relationship duration, Next Best Product recommendations, and customer income versus financial health.
+
+![Lending & Cross-Selling Intelligence](Dashboard_Screenshots/03_Lending_Cross_Selling_Insights.png)
+
+---
+
+### 4. Strategic Performance & Interactive Analytics
+
+Provides branch-level performance comparison and Customer Lifetime Value analysis with interactive filters for city, branch, customer segment, and comparison dimensions.
+
+![Strategic Performance & Interactive Analytics](Dashboard_Screenshots/04_Strategic_Performance_Analytics.png)
+
+---
+
+# Project Components
+
+| Component | Description |
+|---|---|
+| **Python** | Data cleaning, exploratory analysis and visualization |
+| **SQL** | Data validation, customer analysis, product analysis, branch analysis and advanced business queries |
+| **Power BI** | Interactive dashboards and strategic KPI analysis |
+| **Dataset** | Enriched retail banking customer dataset |
